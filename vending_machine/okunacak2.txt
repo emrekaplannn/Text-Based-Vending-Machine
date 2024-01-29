@@ -1,0 +1,3 @@
+Gummies,1.50,6
+Chips,1.00,6
+Raisins,1.25,5
